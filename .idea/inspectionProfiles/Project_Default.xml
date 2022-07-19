@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="46" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="65">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="databricks-connect" />
+            <item index="2" class="java.lang.String" itemvalue="google-cloud-bigquery" />
+            <item index="3" class="java.lang.String" itemvalue="tableau_tools" />
+            <item index="4" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="5" class="java.lang.String" itemvalue="ctds" />
+            <item index="6" class="java.lang.String" itemvalue="atlassian-python-api" />
+            <item index="7" class="java.lang.String" itemvalue="Office365-REST-Python-Client" />
+            <item index="8" class="java.lang.String" itemvalue="mlxtend" />
+            <item index="9" class="java.lang.String" itemvalue="googleapis-common-protos" />
+            <item index="10" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="11" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="12" class="java.lang.String" itemvalue="zenpy" />
+            <item index="13" class="java.lang.String" itemvalue="dg-ml-core" />
+            <item index="14" class="java.lang.String" itemvalue="azure-common" />
+            <item index="15" class="java.lang.String" itemvalue="bdateutil" />
+            <item index="16" class="java.lang.String" itemvalue="pymsteams" />
+            <item index="17" class="java.lang.String" itemvalue="holidays" />
+            <item index="18" class="java.lang.String" itemvalue="lxml" />
+            <item index="19" class="java.lang.String" itemvalue="pybigquery" />
+            <item index="20" class="java.lang.String" itemvalue="xlrd" />
+            <item index="21" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="22" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="23" class="java.lang.String" itemvalue="pywin32" />
+            <item index="24" class="java.lang.String" itemvalue="xlwings" />
+            <item index="25" class="java.lang.String" itemvalue="GitPython" />
+            <item index="26" class="java.lang.String" itemvalue="pyodbc" />
+            <item index="27" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="28" class="java.lang.String" itemvalue="azure-servicebus" />
+            <item index="29" class="java.lang.String" itemvalue="psutil" />
+            <item index="30" class="java.lang.String" itemvalue="pandas-gbq" />
+            <item index="31" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="32" class="java.lang.String" itemvalue="pypiwin32" />
+            <item index="33" class="java.lang.String" itemvalue="Mako" />
+            <item index="34" class="java.lang.String" itemvalue="google-cloud-core" />
+            <item index="35" class="java.lang.String" itemvalue="bravado" />
+            <item index="36" class="java.lang.String" itemvalue="oauth2client" />
+            <item index="37" class="java.lang.String" itemvalue="networkx" />
+            <item index="38" class="java.lang.String" itemvalue="google-cloud-storage" />
+            <item index="39" class="java.lang.String" itemvalue="numpy" />
+            <item index="40" class="java.lang.String" itemvalue="pygit2" />
+            <item index="41" class="java.lang.String" itemvalue="google-resumable-media" />
+            <item index="42" class="java.lang.String" itemvalue="XlsxWriter" />
+            <item index="43" class="java.lang.String" itemvalue="seaborn" />
+            <item index="44" class="java.lang.String" itemvalue="pymysql" />
+            <item index="45" class="java.lang.String" itemvalue="SharePlum" />
+            <item index="46" class="java.lang.String" itemvalue="uamqp" />
+            <item index="47" class="java.lang.String" itemvalue="pyarrow" />
+            <item index="48" class="java.lang.String" itemvalue="google-cloud-datastore" />
+            <item index="49" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="50" class="java.lang.String" itemvalue="pysftp" />
+            <item index="51" class="java.lang.String" itemvalue="pytest" />
+            <item index="52" class="java.lang.String" itemvalue="google-cloud" />
+            <item index="53" class="java.lang.String" itemvalue="plotly" />
+            <item index="54" class="java.lang.String" itemvalue="fastparquet" />
+            <item index="55" class="java.lang.String" itemvalue="msrest" />
+            <item index="56" class="java.lang.String" itemvalue="azure-storage-blob" />
+            <item index="57" class="java.lang.String" itemvalue="pypsrp" />
+            <item index="58" class="java.lang.String" itemvalue="requests_ntlm" />
+            <item index="59" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="60" class="java.lang.String" itemvalue="facebook_business" />
+            <item index="61" class="java.lang.String" itemvalue="google-cloud-bigquery-storage" />
+            <item index="62" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="63" class="java.lang.String" itemvalue="google-auth" />
+            <item index="64" class="java.lang.String" itemvalue="azure-core" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
